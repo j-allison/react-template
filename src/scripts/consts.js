@@ -1,0 +1,1 @@
+// window.SOMETHING    = 666;
